@@ -1,1 +1,1 @@
-# Grade_Notebook_for_MLP
+ ## An automated and accurate tool for diagnosing Diabetic Retinopathy using retinal images. This tool should assist healthcare professionals by providing consistent and reliable grading of DR severity, thus facilitating early intervention and personalized treatment plans.
